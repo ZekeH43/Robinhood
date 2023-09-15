@@ -6,3 +6,6 @@ Robinhood is an online trading platform that distinguished itself from its compe
 
 ---
 Robin initiated a no-fee structure for trading revolutionizing the brokerage industry. Currently it focuses on revenue from sources standard brokerages would consider ancillary.  The company has led with many strengths over existing brokerage houses including: no fee trading, easily accessible user application, and simplified features.  With the focus on these strengths RobinHood is not able to compete in every arena.  Its weaknesses include lacking short sale trading.
+
+---
+Robinhood utilize a mobile app on both IOS and android allowing users to have quick access to there accounts where they can make quick and easy purchases and trades.
